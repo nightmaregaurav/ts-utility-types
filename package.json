@@ -1,0 +1,27 @@
+{
+  "name": "@nightmaregaurav/ts-utility-types",
+  "version": "0.0.1",
+  "description": "TS utility types is a library that contains utility types for typescript that are not present in the standard library.",
+  "scripts": {
+    "compile": "tsc",
+    "clean": "rm -f *.js && rm -f *.d.ts && rm -f *.js.map"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nightmaregaurav/ts-utility-types.git"
+  },
+  "keywords": [
+    "ts-utility-types",
+    "typescript-types"
+  ],
+  "author": "nightmaregaurav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nightmaregaurav/ts-utility-types/issues"
+  },
+  "homepage": "https://github.com/nightmaregaurav/ts-utility-types#readme",
+  "devDependencies": {
+    "@types/node": "^20.11.17",
+    "typescript": "^5.3.3"
+  }
+}
