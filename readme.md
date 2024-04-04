@@ -1,4 +1,4 @@
-# ts-utility-types (Relational TypeScript Classes)
+# ts-utility-types
 [![npm version](https://badge.fury.io/js/@nightmaregaurav%2Fts-utility-types.svg)](https://badge.fury.io/js/@nightmaregaurav%2Fts-utility-types)
 [![HitCount](https://hits.dwyl.com/nightmaregaurav/ts-utility-types.svg?style=flat)](http://hits.dwyl.com/nightmaregaurav/ts-utility-types)<br>
 [![NPM](https://nodei.co/npm/@nightmaregaurav/ts-utility-types.png?mini=true)](https://nodei.co/npm/@nightmaregaurav/ts-utility-types/)
