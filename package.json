@@ -1,6 +1,6 @@
 {
   "name": "@nightmaregaurav/ts-utility-types",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "TS utility types is a library that contains utility types for typescript that are not present in the standard library.",
   "scripts": {
     "compile": "tsc",
