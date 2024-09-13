@@ -1,5 +1,5 @@
 export class PlainObject { [key: string]: any; }
-export type ClassReference<T> = new () => T;
+export type Class<T> = new () => T;
 export type TypesInType<T> = { [P in keyof T]: T[P]; }[keyof T];
 export type FlattenArrayTypes<T> = T extends (infer U)[] ? FlattenArrayTypes<U> : T;
 export type Except<T, K> = T extends K ? never : T;
